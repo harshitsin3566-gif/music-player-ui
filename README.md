@@ -27,13 +27,14 @@ This project focuses on clean design, layout structuring, and UI styling without
 
 ![Preview](preview.png)
 
-> *(Add a screenshot of your project and name it `preview.png` in your repo)*
+> <img width="1919" height="869" alt="Screenshot 2026-04-05 122557" src="https://github.com/user-attachments/assets/737c67de-1f52-4f01-8619-1ef3cd1e455b" />
+
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://YOUR-USERNAME.github.io/music-player-ui
+👉 https://harshitsin3566-gif.github.io/music-player-ui
 
 ---
 
